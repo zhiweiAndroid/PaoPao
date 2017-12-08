@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sinaflashmoney.credit.sina.com.drawabledemo.MainActivity">
+<LinearLayout
+    android:layout_marginTop="20dp"
+    android:padding="10dp"
+    android:background="@drawable/shap_radius"
+    android:layout_gravity="center_horizontal"
+    android:layout_width="200dp"
+    android:layout_height="80dp">
+    <TextView
+        android:text="合法到飞机离开手机单分类考试记录开发进度京东方蓝思科技按付款"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+    <LinearLayout
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/bg_btn_red"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:text="倒三角" />
+    <LinearLayout
+        android:layout_gravity="center_horizontal"
+        android:paddingLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="30dp"
+        android:background="@drawable/bg_more"
+        android:layout_width="200dp"
+        android:layout_height="100dp">
+        <TextView
+            android:text="合法到飞机离开手机单分类考试记录开发进度京东方蓝思科技按付款"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>
